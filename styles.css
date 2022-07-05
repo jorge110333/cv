@@ -1,0 +1,41 @@
+html{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#contenedor_todo{
+    max-width: 60%;
+    margin-left: 20%;
+}
+
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+h3{
+    color: blueviolet;
+    text-align: center; 
+
+}
+#Tiltulo_Acerca_de_mi{
+    color: brown;
+}
+.Sitio{
+    font-style: italic;
+}
+.Contenedor_Fondo_Oscuro{
+    background-color: black;
+    color: white;
+    padding: 24px;
+    margin: 24px;
+}
+
+#Foto_perfil{
+    max-width: 208px;
+}
+#contenedor_foto{
+    width: 100%;
+    text-align: center;
+}
